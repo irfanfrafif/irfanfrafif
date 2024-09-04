@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="left"> A Computer Science student, loves gamedev stuff
-<p align="left"> Check out my games on [Itch.io](https://sphenicpotato.itch.io/)
+Check out my games on [Itch.io](https://sphenicpotato.itch.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
