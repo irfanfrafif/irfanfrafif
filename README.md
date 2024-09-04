@@ -2,8 +2,8 @@
 <h3 align="center">An aspiring game developer</h3>
 
 <h3 align="left">About me:</h3>
-<p align="left"> A Computer Science student, loves gamedev stuff
-Check out my games on [Itch.io](https://sphenicpotato.itch.io/)
+<p align="left"> A Computer Science student, loves gamedev stuff</p>
+<p align="left"> Check out my games on <a href="https://sphenicpotato.itch.io/">Itch.io<a/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
